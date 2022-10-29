@@ -41,7 +41,7 @@
         <knife4j.version>3.0.3</knife4j.version>
         <swagger2.version>3.0.0</swagger2.version>
         <swagger.annotions.version>1.6.7</swagger.annotions.version>
-        <swagger3.version>2.2.3</swagger3.version>
+        <swagger3.version>2.2.4</swagger3.version>
         <lombok.version>1.18.24</lombok.version>
         <slf4j.version>2.0.3</slf4j.version>
         <servlet.api.version>4.0.3</servlet.api.version>
