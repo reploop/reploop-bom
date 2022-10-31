@@ -114,7 +114,7 @@
         <mybatis.typehandlers.jsr310.version>1.0.2</mybatis.typehandlers.jsr310.version>
         <toolchains.plugin.version>3.1.0</toolchains.plugin.version>
         <jetty.plugin.version>11.0.12</jetty.plugin.version>
-        <shade.plugin.version>3.4.0</shade.plugin.version>
+        <shade.plugin.version>3.4.1</shade.plugin.version>
         <assembly.plugin.version>3.4.2</assembly.plugin.version>
         <compiler.plugin.version>3.10.1</compiler.plugin.version>
         <war.plugin.version>3.3.2</war.plugin.version>
