@@ -135,7 +135,7 @@
         <maven.gpg.plugin.version>3.0.1</maven.gpg.plugin.version>
         <sisu.version>0.3.5</sisu.version>
         <resilience4j.version>1.7.1</resilience4j.version>
-        <woodstox.version>6.3.1</woodstox.version>
+        <woodstox.version>6.5.0</woodstox.version>
     </properties>
     <scm>
         <connection>scm:git:https://github.com/reploop/reploop-bom.git</connection>
