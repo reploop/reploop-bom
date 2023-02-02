@@ -28,7 +28,7 @@
         <xstream.version>1.4.19</xstream.version>
         <aliyun.sdk.version>3.15.2</aliyun.sdk.version>
         <phoenix.version>5.1.2</phoenix.version>
-        <aliyun.log.version>0.6.74</aliyun.log.version>
+        <aliyun.log.version>0.6.78</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.0</aliyun.java.sdk.sts.version>
         <aliyun.java.sdk.cms.version>7.0.46</aliyun.java.sdk.cms.version>
         <alipay.sdk.java.version>4.34.0.ALL</alipay.sdk.java.version>
