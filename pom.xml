@@ -24,7 +24,7 @@
         <apollo.client.version>2.0.1</apollo.client.version>
         <dom4j.java8.version>2.1.3</dom4j.java8.version>
         <commons.compress.version>1.21</commons.compress.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.5</commons.fileupload.version>
         <xstream.version>1.4.19</xstream.version>
         <aliyun.sdk.version>3.15.2</aliyun.sdk.version>
         <phoenix.version>5.1.2</phoenix.version>
