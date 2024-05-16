@@ -113,7 +113,7 @@
         <dozer.version>5.5.1</dozer.version>
         <mybatis.typehandlers.jsr310.version>1.0.2</mybatis.typehandlers.jsr310.version>
         <toolchains.plugin.version>3.2.0</toolchains.plugin.version>
-        <jetty.plugin.version>11.0.20</jetty.plugin.version>
+        <jetty.plugin.version>11.0.21</jetty.plugin.version>
         <shade.plugin.version>3.5.3</shade.plugin.version>
         <assembly.plugin.version>3.7.1</assembly.plugin.version>
         <compiler.plugin.version>3.13.0</compiler.plugin.version>
