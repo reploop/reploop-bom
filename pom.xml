@@ -23,7 +23,7 @@
         <joda.time.version>2.12.7</joda.time.version>
         <apollo.client.version>2.2.0</apollo.client.version>
         <dom4j.java8.version>2.1.4</dom4j.java8.version>
-        <commons.compress.version>1.26.1</commons.compress.version>
+        <commons.compress.version>1.26.2</commons.compress.version>
         <commons.fileupload.version>1.5</commons.fileupload.version>
         <xstream.version>1.4.20</xstream.version>
         <aliyun.sdk.version>3.17.4</aliyun.sdk.version>
