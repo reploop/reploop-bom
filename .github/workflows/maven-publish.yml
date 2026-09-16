@@ -26,12 +26,12 @@ jobs:
         uses: actions/setup-java@v6
         with:
           java-version: ${{ matrix.java }}
-          distribution: 'temurin'
+          distribution: 'corretto'
           server-id: 'ossrh'
-          server-username: OSSRH_USERNAME
-          server-password: OSSRH_PASSWORD
+          server-username-env-var: OSSRH_USERNAME
+          server-password-env-var: OSSRH_PASSWORD
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
-          gpg-passphrase: GPG_PASSPHRASE
+          gpg-passphrase-env-var: GPG_PASSPHRASE
           cache: 'maven'
       - name: Publish to OSSRH
         run:
