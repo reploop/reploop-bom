@@ -81,7 +81,7 @@
         <deploy.env>dev</deploy.env>
         <guava.version>33.7.1-jre</guava.version>
         <commons.math3.version>3.6.1</commons.math3.version>
-        <json.version>20231013</json.version>
+        <json.version>20260814</json.version>
         <skipTests>true</skipTests>
         <jackson.version>2.22.2</jackson.version>
         <jackson3.version>3.2.2</jackson3.version>
