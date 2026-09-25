@@ -45,7 +45,7 @@
         <swagger.annotions.version>1.6.16</swagger.annotions.version>
         <swagger3.version>2.2.55</swagger3.version>
         <lombok.version>1.18.48</lombok.version>
-        <slf4j.version>2.0.19</slf4j.version>
+        <slf4j.version>2.0.20</slf4j.version>
         <servlet.api.version>4.0.3</servlet.api.version>
         <httpclient.version>4.5.14</httpclient.version>
         <httpcore.version>4.4.16</httpcore.version>
