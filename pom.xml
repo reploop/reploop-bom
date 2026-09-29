@@ -130,7 +130,7 @@
         <nexus.staging.plugin.version>1.7.0</nexus.staging.plugin.version>
         <airline.version>3.3.0</airline.version>
         <maven.plugin.annotations.version>3.16.0</maven.plugin.annotations.version>
-        <maven.plugin.testing.harness.version>4.0.0-alpha-2</maven.plugin.testing.harness.version>
+        <maven.plugin.testing.harness.version>4.0.0-beta-4</maven.plugin.testing.harness.version>
         <maven.core.version>4.0.0-alpha-13</maven.core.version>
         <maven.plugin.api.version>4.0.0-alpha-13</maven.plugin.api.version>
         <maven.plugin.plugin.version>3.16.0</maven.plugin.plugin.version>
