@@ -99,7 +99,7 @@
         <mybatis.plus.version>3.5.17</mybatis.plus.version>
         <mybatis.dynamic.sql.version>2.0.0</mybatis.dynamic.sql.version>
         <xxl.job.version>3.4.2</xxl.job.version>
-        <tika.version>4.0.0</tika.version>
+        <tika.version>4.1.0</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
         <aliyun.java.sdk.ons.version>3.2.3</aliyun.java.sdk.ons.version>
         <aliyun.java.sdk.core.version>4.7.10</aliyun.java.sdk.core.version>
