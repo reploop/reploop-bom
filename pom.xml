@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.reploop</groupId>
     <artifactId>reploop-bom</artifactId>
-    <version>0.0.9</version>
+    <version>0.1.0</version>
     <packaging>pom</packaging>
     <name>REPLoop BOM</name>
     <description>REPLoop BOM</description>
@@ -21,7 +21,7 @@
         <openfeign.version>13.15</openfeign.version>
         <byte.buddy.version>1.18.14-jdk5</byte.buddy.version>
         <jpinyin.version>1.1.8</jpinyin.version>
-        <joda.time.version>2.14.4</joda.time.version>
+        <joda.time.version>2.15.0</joda.time.version>
         <apollo.client.version>2.5.0</apollo.client.version>
         <dom4j.java8.version>2.2.0</dom4j.java8.version>
         <commons.compress.version>1.28.0</commons.compress.version>
@@ -51,8 +51,8 @@
         <httpcore.version>4.4.16</httpcore.version>
         <caffeine.version>3.3.0</caffeine.version>
         <protobuf.version>4.36.2</protobuf.version>
-        <thrift.version>0.24.0</thrift.version>
-        <commons.lang3.version>3.20.0</commons.lang3.version>
+        <thrift.version>0.25.0</thrift.version>
+        <commons.lang3.version>3.21.0</commons.lang3.version>
         <commons.collection4.version>4.6.0</commons.collection4.version>
         <commons.pool2.version>2.13.1</commons.pool2.version>
         <commons.io.version>2.22.0</commons.io.version>
@@ -67,19 +67,19 @@
         <mybatis.spring.version>4.1.0</mybatis.spring.version>
         <mybatis.spring.boot.version>4.1.0</mybatis.spring.boot.version>
         <mybatis.pagehelper.version>6.1.1</mybatis.pagehelper.version>
-        <selenium.version>4.49.0</selenium.version>
+        <selenium.version>4.50.0</selenium.version>
         <aspectjweaver.version>1.9.25.1</aspectjweaver.version>
         <micrometer.version>1.17.1</micrometer.version>
         <mysql.connector.version>8.0.33</mysql.connector.version>
         <mongodb.driver.sync.version>5.13.0</mongodb.driver.sync.version>
-        <logback.version>1.6.4</logback.version>
+        <logback.version>1.6.5</logback.version>
         <netty.version>4.2.18.Final</netty.version>
         <junit.version>4.13.2</junit.version>
         <testng.version>7.12.0</testng.version>
         <hikaricp.version>7.1.0</hikaricp.version>
-        <kryo.version>5.6.2</kryo.version>
+        <kryo.version>5.7.0</kryo.version>
         <deploy.env>dev</deploy.env>
-        <guava.version>33.7.1-jre</guava.version>
+        <guava.version>33.7.2-jre</guava.version>
         <commons.math3.version>3.6.1</commons.math3.version>
         <json.version>20231013</json.version>
         <skipTests>true</skipTests>
@@ -99,7 +99,7 @@
         <mybatis.plus.version>3.5.17</mybatis.plus.version>
         <mybatis.dynamic.sql.version>2.0.0</mybatis.dynamic.sql.version>
         <xxl.job.version>3.4.2</xxl.job.version>
-        <tika.version>4.0.0</tika.version>
+        <tika.version>4.1.0</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
         <aliyun.java.sdk.ons.version>3.2.3</aliyun.java.sdk.ons.version>
         <aliyun.java.sdk.core.version>4.7.10</aliyun.java.sdk.core.version>
@@ -139,7 +139,7 @@
         <central.publishing.maven.plugin.version>0.11.0</central.publishing.maven.plugin.version>
         <sisu.version>1.1.0</sisu.version>
         <resilience4j.version>2.4.0</resilience4j.version>
-        <woodstox.version>7.2.2</woodstox.version>
+        <woodstox.version>7.3.0</woodstox.version>
     </properties>
     <scm>
         <connection>scm:git:https://github.com/reploop/reploop-bom.git</connection>
