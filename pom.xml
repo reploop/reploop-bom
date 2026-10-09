@@ -73,7 +73,7 @@
         <mysql.connector.version>8.0.33</mysql.connector.version>
         <mongodb.driver.sync.version>5.13.0</mongodb.driver.sync.version>
         <logback.version>1.6.5</logback.version>
-        <netty.version>4.2.18.Final</netty.version>
+        <netty.version>4.2.19.Final</netty.version>
         <junit.version>4.13.2</junit.version>
         <testng.version>7.12.0</testng.version>
         <hikaricp.version>7.1.0</hikaricp.version>
