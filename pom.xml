@@ -122,7 +122,7 @@
         <compiler.plugin.version>3.16.0</compiler.plugin.version>
         <war.plugin.version>3.5.1</war.plugin.version>
         <source.plugin.version>3.4.0</source.plugin.version>
-        <versions.plugin.version>2.22.0</versions.plugin.version>
+        <versions.plugin.version>2.23.0</versions.plugin.version>
         <lombok.plugin.version>1.18.20.0</lombok.plugin.version>
         <release.plugin.version>3.3.1</release.plugin.version>
         <enforcer.plugin.version>3.6.3</enforcer.plugin.version>
