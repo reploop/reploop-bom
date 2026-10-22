@@ -19,7 +19,7 @@
         <reflections.version>0.10.2</reflections.version>
         <jmh.version>1.37</jmh.version>
         <openfeign.version>13.17</openfeign.version>
-        <byte.buddy.version>1.18.14-jdk5</byte.buddy.version>
+        <byte.buddy.version>1.18.15-jdk5</byte.buddy.version>
         <jpinyin.version>1.1.8</jpinyin.version>
         <joda.time.version>2.15.0</joda.time.version>
         <apollo.client.version>2.5.0</apollo.client.version>
