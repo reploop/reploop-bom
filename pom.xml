@@ -125,7 +125,7 @@
         <versions.plugin.version>2.23.0</versions.plugin.version>
         <lombok.plugin.version>1.18.20.0</lombok.plugin.version>
         <release.plugin.version>3.3.1</release.plugin.version>
-        <enforcer.plugin.version>3.6.3</enforcer.plugin.version>
+        <enforcer.plugin.version>3.7.0</enforcer.plugin.version>
         <surefire.plugin.version>3.6.0</surefire.plugin.version>
         <nexus.staging.plugin.version>1.7.0</nexus.staging.plugin.version>
         <airline.version>3.3.0</airline.version>
